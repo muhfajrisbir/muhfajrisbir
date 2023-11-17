@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajri</h1>
-<img align="center" alt="coding" width="100%" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
